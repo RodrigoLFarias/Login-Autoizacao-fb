@@ -1,0 +1,6 @@
+Este banco de dados foi criado no firebase no projeto: aprendendo-firebase
+
+Para exercutar-lo entre na pasta cd my-app execute o npm run web.
+Após isto digite um e-mail e senha, caso você se lembre do cadastro.
+Caso não tenha se cadastrado, crie uma nova conta com e-mail e senha especificos para executar o programa.
+
